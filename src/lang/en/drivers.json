@@ -1553,7 +1553,26 @@
     "WebDav": {},
     "WeiYun": {},
     "WoPan": {},
-    "YandexDisk": {}
+    "YandexDisk": {},
+    "GuangYaPan": {
+      "access_token": "Access Token",
+      "access_token-tips": "Access Token",
+      "client_id": "Client ID",
+      "client_id-tips": "Client ID",
+      "device_id": "Device ID",
+      "device_id-tips": "Device ID",
+      "order_by": "Order By",
+      "order_by-tips": "Order By",
+      "page_size": "Page Size",
+      "page_size-tips": "Page Size",
+      "refresh_token": "Refresh Token",
+      "refresh_token-tips": "Refresh Token",
+      "sort_type": "Sort Type",
+      "sort_type-tips": "Sort Type",
+      "verify_code": "Verification Code",
+      "verify_code-tips": "Verification Code",
+      "root_folder_id": "Root Folder ID"
+    }
   },
   "drivers": {
     "115 Cloud": "115 Cloud",
@@ -1643,6 +1662,7 @@
     "WebDav": "WebDav",
     "WeiYun": "WeiYun",
     "WoPan": "WoPan",
-    "YandexDisk": "YandexDisk"
+    "YandexDisk": "YandexDisk",
+    "GuangYaPan": "GuangYaPan"
   }
 }
